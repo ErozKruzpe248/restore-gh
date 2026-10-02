@@ -1,0 +1,179 @@
+[
+  {
+    "slug": "restore-gh",
+    "description": "RESTORE GH ES UNA MEZCLA DE PRODUCTOS QUIMICOS DE ALTA CALIDAD, UNICO EN SU GENERO QUE ACTUA COMO LIMPIADOR Y RESTAURADOR DE SUPERFICIES PINTADAS SOBRE FIERRO Y ACERO O CUALQUIER TIPO DE MATERIAL CUBIERTO CON PINTURA, ELIMINANDO LAS INCRUSTACIONES Y CONTAMINACION AMBIENTAL DE LAS SUPERFICIES PINTADAS CON ESMALTES, EPOXICOS, POLIURETANOS Y ALQUIDALICOS, ADEMAS REMUEVE LA PINTURA QUEMADA O CALEADA (POR LOS RAYOS UV DEL SOL) CON SUMA FACILIDAD, DEJANDO UNA PINTURA BRILLANTE Y LIMPIA CON SU COLOR ORIGINAL DEBIDO A LA REMOSION DE LA CONTAMINACION ANTES MENCIONADA, SIN NECESIDAD DE LIJAR, ESTE PRODUCTO CUENTA CON CERTIFICADO DE BIODEGRADABILIDAD EMITIDO POR LA UANL (UNIVERSIDAD AUTONOMA DE NUEVO LEON), AVALADO POR LA EMA (ENTIDAD MEXICANA DE ACREDITACION), TAMBIEN CUENTA CON PATENTE EN USA Y CUENTA CON LA PATENTE MEXICANA. EN PROCESOS DE PINTURA Y CUANDO SE REQUIERE ELIMINAR MANCHAS DE ESCURRIMIENTOS DE OXIDO FERROSO (ESCURRIMIENTO AMARILLO OXIDO) DEJA LA SUPERFICIE LIMPIA Y LISTA PARA RECIBIR FONDO ANTICORROSIVO O PINTURA.",
+    "image": "/assets/product-0.png",
+    "docs": [
+      {
+        "url": "https://restoregh.com/wp-content/uploads/2025/02/Literatura-Restore-GH.pdf",
+        "label": "LITERATURA RESTORE GH"
+      },
+      {
+        "url": "https://restoregh.com/wp-content/uploads/2025/02/RESTORE-GH-Certificado-Biodegradable-1.pdf",
+        "label": "RESTORE GH Certificado Biodegradable"
+      }
+    ],
+    "sizes": [
+      "Galon (3.785 Lt)",
+      "10 Litros.",
+      "20 Litros.",
+      "Personalizar Cantidad."
+    ]
+  },
+  {
+    "slug": "hand-cream-by-restore-gh",
+    "description": "CREMA LIMPIA MANOS HAND CREAM ES UN PRODUCTO ESPECIALIZADO PARA OPERARIOS EN GENERAL QUE LABORAN EJECUTANDO INFINIDAD DE OPERACIONES MANUALES DONDE ES HABITUAL LAVARSE LAS MANOS UTILIZANDO DIFERENTES PRODUCTOS COMO DETERGENTES EN POLVO, THINER, AGUARRAS, GASOLINA O AGUA Y SIMPLEMENTE NO ES SUFICIENTE PORQUE NO LIMPIAN BIEN, IRRITAN Y/O AGRIETAN SUS MANOS. HAND CREAM SE DISEÑO QUIMICAMENTE PARA EVITAR TODO LO ANTES MENCIONADO YA QUE DESENGRASA SIN DAÑAR LA PIEL, SE UTILIZA EN TALLERES INDUSTRIALES, MECANICOS, ELECTRICOS, AUTOMOTRICES, VULCANIZADORAS Y OTROS. NO CONTIENE EXFOLIANTE ABRASIVO.",
+    "image": "/assets/product-1.png",
+    "docs": [
+      {
+        "url": "https://restoregh.com/wp-content/uploads/2025/04/Literatura-hand-cream.pdf",
+        "label": "Literatura hand cream"
+      }
+    ],
+    "sizes": [
+      "1Kg",
+      "4Kg.",
+      "8Kg."
+    ]
+  },
+  {
+    "slug": "greaseout-ac-restore-gh",
+    "description": "DESENGRASANTE SUPER CONCENTRADO EFICAZ LIMPIADOR, UTIL PARA REMOSION DE GRASAS Y ACEITES EN INFINIDAD DE PROCESOS DE LIMPIEZA, ES VERSATIL EN SU APLICACION PUES PUEDE SER USADO TANTO A NIVEL DOMESTICO, INSTITUCIONAL Y AREAS INDUSTRIALES, ES INOFENSIVO PUES NO ES FLAMABLE NI CORROSIVO, ESTE PRODUCTO CUENTA CON CERTIFICADO DE BIODEGRADABILIDAD EMITIDO POR LA UANL (UNIVERSIDAD AUTONOMA DE NUEVO LEON), AVALADO POR LA EMA (ENTIDAD MEXICANA DE ACREDITACION). SE PUEDE UTILIZAR CON PULIDORAS Y EN MAQUINAS LAVADORAS CON GRANDES RESULTADOS EN LA LIMPIEZA DE PISOS ACEITOSOS. GREASE OUT AC NO AFECTA NINGUN TIPO DE MATERIAL DONDE SE APLIQUE, PUEDE SER UTILIZADO EN LA LIMPIEZA DE TODO TIPO DE PISOS, MUEBLES Y MAQUINARIA EN GENERAL.",
+    "image": "/assets/product-2.png",
+    "docs": [
+      {
+        "url": "https://restoregh.com/wp-content/uploads/2025/02/Literatura-Grease-Out-AC.pdf",
+        "label": "LITERATURA GREASE OUT AC"
+      },
+      {
+        "url": "https://restoregh.com/wp-content/uploads/2025/02/GREASE-OUT-AC-Certificado-Biodegradable.pdf",
+        "label": "GREASE OUT AC CERTIFICADO BIODEGRADABLE"
+      }
+    ],
+    "sizes": [
+      "Galon.",
+      "10 Litros.",
+      "20 Litros."
+    ]
+  },
+  {
+    "slug": "grease-out-ah",
+    "description": "DESENGRASANTE DE ALTO PODER",
+    "image": "/assets/product-3.png",
+    "docs": [
+      {
+        "url": "https://restoregh.com/wp-content/uploads/2025/02/Literatura-Grease-Out-AH.pdf",
+        "label": "Literatura Grease Out AH"
+      },
+      {
+        "url": "https://restoregh.com/wp-content/uploads/2025/02/GREASE-OUT-AH-Certificado-Biodegradable.pdf",
+        "label": "."
+      }
+    ],
+    "sizes": [
+      "1Litro.",
+      "Galon",
+      "10 Litros.",
+      "20 Litros."
+    ]
+  },
+  {
+    "slug": "grease-out-ap",
+    "description": "L IMPIADOR DESENGRASANTE PARA PARRILLAS Y ASADORES",
+    "image": "/assets/product-4.png",
+    "docs": [
+      {
+        "url": "https://restoregh.com/wp-content/uploads/2025/02/Restoregh-Grease-Out-AP.pdf",
+        "label": "Restoregh Grease Out AP(literatura)"
+      }
+    ],
+    "sizes": [
+      "Litro.",
+      "Galon",
+      "10 Litros."
+    ]
+  },
+  {
+    "slug": "grease-out-nc",
+    "description": "DESENGRASANTE NEUTRO PARA PISOS EPOXICOS GREASE OUT NC ES UN DESENGRASANTE BASE AGUA SUPER CONCENTRADO, EFICAZ Y UTIL PARA REMOCION DE ACEITES Y GRASAS INDUSTRIALES E AUTOMOTRICES EN INFINIDAD DE PROCESOS DE LIMPIEZA TANTO A NIVEL INDUSTRIAL, INSTITUCIONAL, O RESIDENCIAL. VERSATIL EN SU APLICACION E INOFENSIVO YA QUE ES BIODEGRADABLE, NO FLAMABLE Y NO CORROSIVO. GREASE OUT ACE NC NO DAÑA NINGUN TIPO DE MATERIAL DONDE SE APLICA, LO MISMO PUEDE SER UTILIZADO EN PISOS, PAREDES, EQUIPOS Y MAQUINARIA EN GENERAL COMO EN CUALQUIER SUPERFICIE QUE SE PRETENDA DESENGRASAR.",
+    "image": "/assets/product-5.png",
+    "docs": [
+      {
+        "url": "https://restoregh.com/wp-content/uploads/2025/04/Grease-out-nc.pdf",
+        "label": "Literatura Grease out nc"
+      }
+    ],
+    "sizes": [
+      "Litro.",
+      "Galon.",
+      "20 Litros."
+    ]
+  },
+  {
+    "slug": "hand-clean-by-restore-gh",
+    "description": "JABON LIQUIDO LIMPIA MANOS",
+    "image": "/assets/product-6.png",
+    "docs": [
+      {
+        "url": "https://restoregh.com/wp-content/uploads/2025/04/Literatura-hand-clean.pdf",
+        "label": "LITERATURA HAND CLEAN"
+      }
+    ],
+    "sizes": [
+      "1 Litro",
+      "Galon",
+      "10 Litros."
+    ]
+  },
+  {
+    "slug": "grease-out-an",
+    "description": "DESENGRASANTE PARA COCINAS",
+    "image": "/assets/product-7.png",
+    "docs": [
+      {
+        "url": "https://restoregh.com/wp-content/uploads/2025/02/Literatura-Grease-Out-AN.pdf",
+        "label": "LITERATURA GREASE OUT AN"
+      }
+    ],
+    "sizes": [
+      "1 Litro.",
+      "Galon",
+      "10 Litros.",
+      "20 Litros."
+    ]
+  },
+  {
+    "slug": "jabon-liquido-lava-loza-manual",
+    "description": "JABON LIQUIDO LAVA LOZA MANUAL CLEAN 2000 ES UN DETERGENTE NEUTRO CON TENSOACTIVOS, AGENTES ESTABILIZADORES, SUAVIZANTES DE DUREZA Y OTROS CUYA FINALIDAD ES EL LAVADO DE LOZA, UTENSILIOS DE COCINA, CRISTAL, CUBIERTOS EN GENERAL Y TODO AQUELLO DONDE PUEDA UTILIZARSE EL AGUA PARA SU LIMPIEZA. CORTA LA GRASA AL INSTANTE, NO DEJA OLORES DESAGRADABLES, NO TIENE QUE SECAR LAS PIEZAS, SOLO ESCURRIRLAS. NO IRRITA NI AGRIETA SUS MANOS.",
+    "image": "/assets/product-8.png",
+    "docs": [
+      {
+        "url": "https://restoregh.com/wp-content/uploads/2025/04/Literatura-clean-2000.pdf",
+        "label": "LITERATURA CLEAN 2000"
+      }
+    ],
+    "sizes": [
+      "1Litro.",
+      "Galon.",
+      "10 Litros.",
+      "20 Litros."
+    ]
+  },
+  {
+    "slug": "ger-lemon",
+    "description": "LIMPIADOR DESINFECTANTE FUNGICIDA",
+    "image": "/assets/product-9.png",
+    "docs": [
+      {
+        "url": "https://restoregh.com/wp-content/uploads/2025/04/Literatura-Ger-lemon.pdf",
+        "label": "LITERATURA GER LEMON"
+      }
+    ],
+    "sizes": [
+      "1 Litro.",
+      "Galon",
+      "10 Litros.",
+      "20 Litros."
+    ]
+  }
+]

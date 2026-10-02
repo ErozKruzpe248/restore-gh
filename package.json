@@ -1,0 +1,11 @@
+{
+  "name": "restore-gh",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Sitio de Restore GH para GitHub Pages",
+  "scripts": {
+    "build": "node build-content.mjs",
+    "check": "node check-site.mjs"
+  },
+  "engines": { "node": ">=20" }
+}

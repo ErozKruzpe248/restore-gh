@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://erozkruzpe248.github.io/restore-gh/sitemap.xml

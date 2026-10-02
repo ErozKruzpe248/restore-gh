@@ -1,0 +1,249 @@
+[
+  {
+    "name": "RESTORE GH",
+    "category": "Restauración",
+    "short": "Limpieza y restauración de superficies pintadas.",
+    "description": "Remueve incrustaciones y contaminación sobre superficies pintadas de fierro y acero. Se utiliza en recubrimientos de esmalte, epóxicos, poliuretanos y alquidálicos.",
+    "uses": [
+      "Superficies pintadas",
+      "Estructuras de fierro y acero"
+    ],
+    "sizes": [
+      "Galon (3.785 Lt)",
+      "10 Litros.",
+      "20 Litros.",
+      "Personalizar Cantidad."
+    ],
+    "slug": "restore-gh",
+    "image": "/restore-gh/assets/product-0.png",
+    "docs": [
+      {
+        "url": "https://restoregh.com/wp-content/uploads/2025/02/Literatura-Restore-GH.pdf",
+        "label": "LITERATURA RESTORE GH"
+      },
+      {
+        "url": "https://restoregh.com/wp-content/uploads/2025/02/RESTORE-GH-Certificado-Biodegradable-1.pdf",
+        "label": "RESTORE GH Certificado Biodegradable"
+      }
+    ]
+  },
+  {
+    "name": "HAND CREAM",
+    "category": "Higiene de manos",
+    "short": "Crema limpiadora para manos de operarios.",
+    "description": "Crema para limpieza de manos en talleres industriales, mecánicos, eléctricos y automotrices. La descripción del fabricante indica que no contiene exfoliante abrasivo.",
+    "uses": [
+      "Manos de operarios",
+      "Talleres mecánicos y automotrices"
+    ],
+    "sizes": [
+      "1Kg",
+      "4Kg.",
+      "8Kg."
+    ],
+    "slug": "hand-cream-by-restore-gh",
+    "image": "/restore-gh/assets/product-1.png",
+    "docs": [
+      {
+        "url": "https://restoregh.com/wp-content/uploads/2025/04/Literatura-hand-cream.pdf",
+        "label": "Literatura hand cream"
+      }
+    ]
+  },
+  {
+    "name": "GREASE OUT AC",
+    "category": "Desengrase",
+    "short": "Desengrasante concentrado para limpieza general.",
+    "description": "Producto para remoción de grasas y aceites en limpieza doméstica, institucional e industrial. El fabricante describe aplicaciones con pulidoras y máquinas lavadoras de pisos.",
+    "uses": [
+      "Pisos aceitosos",
+      "Muebles y maquinaria"
+    ],
+    "sizes": [
+      "Galon.",
+      "10 Litros.",
+      "20 Litros."
+    ],
+    "slug": "greaseout-ac-restore-gh",
+    "image": "/restore-gh/assets/product-2.png",
+    "docs": [
+      {
+        "url": "https://restoregh.com/wp-content/uploads/2025/02/Literatura-Grease-Out-AC.pdf",
+        "label": "LITERATURA GREASE OUT AC"
+      },
+      {
+        "url": "https://restoregh.com/wp-content/uploads/2025/02/GREASE-OUT-AC-Certificado-Biodegradable.pdf",
+        "label": "GREASE OUT AC CERTIFICADO BIODEGRADABLE"
+      }
+    ]
+  },
+  {
+    "name": "GREASE OUT AH",
+    "category": "Desengrase",
+    "short": "Desengrase de maquinaria y residuos de hidrocarburos.",
+    "description": "Desengrasante para limpieza de grasas, aceites, residuos de hidrocarburos, hollín y ceras en áreas industriales. Consulta la compatibilidad con el recubrimiento antes de aplicar.",
+    "uses": [
+      "Maquinaria y equipos",
+      "Pisos y paredes industriales",
+      "Áreas con hidrocarburos"
+    ],
+    "sizes": [
+      "1Litro.",
+      "Galon",
+      "10 Litros.",
+      "20 Litros."
+    ],
+    "slug": "grease-out-ah",
+    "image": "/restore-gh/assets/product-3.png",
+    "docs": [
+      {
+        "url": "https://restoregh.com/wp-content/uploads/2025/02/Literatura-Grease-Out-AH.pdf",
+        "label": "Literatura Grease Out AH"
+      },
+      {
+        "url": "https://restoregh.com/wp-content/uploads/2025/02/GREASE-OUT-AH-Certificado-Biodegradable.pdf",
+        "label": "."
+      }
+    ]
+  },
+  {
+    "name": "GREASE OUT AP",
+    "category": "Cocinas",
+    "short": "Limpieza de parrillas y asadores.",
+    "description": "Limpiador desengrasante diseñado para remover grasa adherida en parrillas y asadores. Consulta la literatura del producto para sus indicaciones de aplicación.",
+    "uses": [
+      "Parrillas",
+      "Asadores"
+    ],
+    "sizes": [
+      "Litro.",
+      "Galon",
+      "10 Litros."
+    ],
+    "slug": "grease-out-ap",
+    "image": "/restore-gh/assets/product-4.png",
+    "docs": [
+      {
+        "url": "https://restoregh.com/wp-content/uploads/2025/02/Restoregh-Grease-Out-AP.pdf",
+        "label": "Restoregh Grease Out AP(literatura)"
+      }
+    ]
+  },
+  {
+    "name": "GREASE OUT NC",
+    "category": "Desengrase",
+    "short": "Desengrasante neutro para pisos epóxicos.",
+    "description": "Desengrasante base agua para remoción de aceites y grasas industriales y automotrices. Su aplicación principal en el catálogo es la limpieza de pisos epóxicos.",
+    "uses": [
+      "Pisos epóxicos",
+      "Paredes, equipos y maquinaria"
+    ],
+    "sizes": [
+      "Litro.",
+      "Galon.",
+      "20 Litros."
+    ],
+    "slug": "grease-out-nc",
+    "image": "/restore-gh/assets/product-5.png",
+    "docs": [
+      {
+        "url": "https://restoregh.com/wp-content/uploads/2025/04/Grease-out-nc.pdf",
+        "label": "Literatura Grease out nc"
+      }
+    ]
+  },
+  {
+    "name": "HAND CLEAN",
+    "category": "Higiene de manos",
+    "short": "Jabón líquido para limpieza de manos.",
+    "description": "Jabón líquido limpia manos de la línea Restore GH. Consulta su literatura técnica y solicita asesoría para elegir la presentación adecuada.",
+    "uses": [
+      "Limpieza de manos"
+    ],
+    "sizes": [
+      "1 Litro",
+      "Galon",
+      "10 Litros."
+    ],
+    "slug": "hand-clean-by-restore-gh",
+    "image": "/restore-gh/assets/product-6.png",
+    "docs": [
+      {
+        "url": "https://restoregh.com/wp-content/uploads/2025/04/Literatura-hand-clean.pdf",
+        "label": "LITERATURA HAND CLEAN"
+      }
+    ]
+  },
+  {
+    "name": "GREASE OUT AN",
+    "category": "Cocinas",
+    "short": "Desengrase de cocinas y restaurantes.",
+    "description": "Desengrasante para remoción de grasas y aceites animales y vegetales, cochambre y hollín. Aplicaciones descritas para cocinas industriales, restaurantes y uso doméstico.",
+    "uses": [
+      "Cocinas industriales",
+      "Restaurantes"
+    ],
+    "sizes": [
+      "1 Litro.",
+      "Galon",
+      "10 Litros.",
+      "20 Litros."
+    ],
+    "slug": "grease-out-an",
+    "image": "/restore-gh/assets/product-7.png",
+    "docs": [
+      {
+        "url": "https://restoregh.com/wp-content/uploads/2025/02/Literatura-Grease-Out-AN.pdf",
+        "label": "LITERATURA GREASE OUT AN"
+      }
+    ]
+  },
+  {
+    "name": "JABÓN LÍQUIDO LAVA LOZA MANUAL",
+    "category": "Cocinas",
+    "short": "Lavado manual de loza y utensilios.",
+    "description": "Detergente neutro CLEAN 2000 para lavado de loza, utensilios de cocina, cristal y cubiertos en aplicaciones donde puede utilizarse agua.",
+    "uses": [
+      "Loza y utensilios",
+      "Cristal y cubiertos"
+    ],
+    "sizes": [
+      "1Litro.",
+      "Galon.",
+      "10 Litros.",
+      "20 Litros."
+    ],
+    "slug": "jabon-liquido-lava-loza-manual",
+    "image": "/restore-gh/assets/product-8.png",
+    "docs": [
+      {
+        "url": "https://restoregh.com/wp-content/uploads/2025/04/Literatura-clean-2000.pdf",
+        "label": "LITERATURA CLEAN 2000"
+      }
+    ]
+  },
+  {
+    "name": "GER LEMON",
+    "category": "Limpieza especializada",
+    "short": "Limpieza de superficies lavables con agua.",
+    "description": "Limpiador para pisos, paredes, ventanas y otras superficies que pueden lavarse con agua. Consulta la documentación original para las indicaciones específicas de uso.",
+    "uses": [
+      "Pisos y paredes",
+      "Ventanas y superficies lavables"
+    ],
+    "sizes": [
+      "1 Litro.",
+      "Galon",
+      "10 Litros.",
+      "20 Litros."
+    ],
+    "slug": "ger-lemon",
+    "image": "/restore-gh/assets/product-9.png",
+    "docs": [
+      {
+        "url": "https://restoregh.com/wp-content/uploads/2025/04/Literatura-Ger-lemon.pdf",
+        "label": "LITERATURA GER LEMON"
+      }
+    ]
+  }
+]
