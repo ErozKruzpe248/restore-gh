@@ -8,12 +8,6 @@
       "Superficies pintadas",
       "Estructuras de fierro y acero"
     ],
-    "sizes": [
-      "Galon (3.785 Lt)",
-      "10 Litros.",
-      "20 Litros.",
-      "Personalizar Cantidad."
-    ],
     "slug": "restore-gh",
     "image": "/restore-gh/assets/product-0.png",
     "docs": [
@@ -25,7 +19,14 @@
         "url": "https://restoregh.com/wp-content/uploads/2025/02/RESTORE-GH-Certificado-Biodegradable-1.pdf",
         "label": "RESTORE GH Certificado Biodegradable"
       }
-    ]
+    ],
+    "sizes": [
+      "Galón",
+      "10 L",
+      "20 L"
+    ],
+    "guidance": "Elige esta solución cuando necesitas limpiar superficies pintadas de fierro o acero.",
+    "consultation": "Material y tipo de pintura; incrustaciones o contaminación que deseas retirar."
   },
   {
     "name": "HAND CREAM",
@@ -36,11 +37,6 @@
       "Manos de operarios",
       "Talleres mecánicos y automotrices"
     ],
-    "sizes": [
-      "1Kg",
-      "4Kg.",
-      "8Kg."
-    ],
     "slug": "hand-cream-by-restore-gh",
     "image": "/restore-gh/assets/product-1.png",
     "docs": [
@@ -48,7 +44,14 @@
         "url": "https://restoregh.com/wp-content/uploads/2025/04/Literatura-hand-cream.pdf",
         "label": "Literatura hand cream"
       }
-    ]
+    ],
+    "sizes": [
+      "1 kg",
+      "4 kg",
+      "8 kg"
+    ],
+    "guidance": "Elige esta crema para la limpieza de manos de operarios en talleres.",
+    "consultation": "Tipo de suciedad y frecuencia de limpieza de manos."
   },
   {
     "name": "GREASE OUT AC",
@@ -58,11 +61,6 @@
     "uses": [
       "Pisos aceitosos",
       "Muebles y maquinaria"
-    ],
-    "sizes": [
-      "Galon.",
-      "10 Litros.",
-      "20 Litros."
     ],
     "slug": "greaseout-ac-restore-gh",
     "image": "/restore-gh/assets/product-2.png",
@@ -75,7 +73,14 @@
         "url": "https://restoregh.com/wp-content/uploads/2025/02/GREASE-OUT-AC-Certificado-Biodegradable.pdf",
         "label": "GREASE OUT AC CERTIFICADO BIODEGRADABLE"
       }
-    ]
+    ],
+    "sizes": [
+      "Galón",
+      "10 L",
+      "20 L"
+    ],
+    "guidance": "Considera AC para limpieza general de grasas y aceites en pisos, muebles o maquinaria.",
+    "consultation": "Material, residuo y equipo de limpieza que utilizas."
   },
   {
     "name": "GREASE OUT AH",
@@ -86,12 +91,6 @@
       "Maquinaria y equipos",
       "Pisos y paredes industriales",
       "Áreas con hidrocarburos"
-    ],
-    "sizes": [
-      "1Litro.",
-      "Galon",
-      "10 Litros.",
-      "20 Litros."
     ],
     "slug": "grease-out-ah",
     "image": "/restore-gh/assets/product-3.png",
@@ -104,7 +103,15 @@
         "url": "https://restoregh.com/wp-content/uploads/2025/02/GREASE-OUT-AH-Certificado-Biodegradable.pdf",
         "label": "."
       }
-    ]
+    ],
+    "sizes": [
+      "1 L",
+      "Galón",
+      "10 L",
+      "20 L"
+    ],
+    "guidance": "Considera AH para maquinaria y áreas industriales con residuos de hidrocarburos.",
+    "consultation": "Residuo, superficie y recubrimiento del equipo."
   },
   {
     "name": "GREASE OUT AP",
@@ -115,11 +122,6 @@
       "Parrillas",
       "Asadores"
     ],
-    "sizes": [
-      "Litro.",
-      "Galon",
-      "10 Litros."
-    ],
     "slug": "grease-out-ap",
     "image": "/restore-gh/assets/product-4.png",
     "docs": [
@@ -127,7 +129,14 @@
         "url": "https://restoregh.com/wp-content/uploads/2025/02/Restoregh-Grease-Out-AP.pdf",
         "label": "Restoregh Grease Out AP(literatura)"
       }
-    ]
+    ],
+    "sizes": [
+      " L",
+      "Galón",
+      "10 L"
+    ],
+    "guidance": "Considera AP para grasa adherida en parrillas y asadores.",
+    "consultation": "Material de la parrilla o asador y estado de la grasa."
   },
   {
     "name": "GREASE OUT NC",
@@ -138,11 +147,6 @@
       "Pisos epóxicos",
       "Paredes, equipos y maquinaria"
     ],
-    "sizes": [
-      "Litro.",
-      "Galon.",
-      "20 Litros."
-    ],
     "slug": "grease-out-nc",
     "image": "/restore-gh/assets/product-5.png",
     "docs": [
@@ -150,7 +154,14 @@
         "url": "https://restoregh.com/wp-content/uploads/2025/04/Grease-out-nc.pdf",
         "label": "Literatura Grease out nc"
       }
-    ]
+    ],
+    "sizes": [
+      " L",
+      "Galón",
+      "20 L"
+    ],
+    "guidance": "Considera NC cuando la necesidad principal es desengrasar pisos epóxicos.",
+    "consultation": "Tipo y estado del recubrimiento y presencia de aceites o grasas."
   },
   {
     "name": "HAND CLEAN",
@@ -160,11 +171,6 @@
     "uses": [
       "Limpieza de manos"
     ],
-    "sizes": [
-      "1 Litro",
-      "Galon",
-      "10 Litros."
-    ],
     "slug": "hand-clean-by-restore-gh",
     "image": "/restore-gh/assets/product-6.png",
     "docs": [
@@ -172,7 +178,14 @@
         "url": "https://restoregh.com/wp-content/uploads/2025/04/Literatura-hand-clean.pdf",
         "label": "LITERATURA HAND CLEAN"
       }
-    ]
+    ],
+    "sizes": [
+      "1 L",
+      "Galón",
+      "10 L"
+    ],
+    "guidance": "Elige HAND CLEAN cuando buscas un jabón líquido para limpieza de manos.",
+    "consultation": "Contexto de uso y presentación requerida."
   },
   {
     "name": "GREASE OUT AN",
@@ -183,12 +196,6 @@
       "Cocinas industriales",
       "Restaurantes"
     ],
-    "sizes": [
-      "1 Litro.",
-      "Galon",
-      "10 Litros.",
-      "20 Litros."
-    ],
     "slug": "grease-out-an",
     "image": "/restore-gh/assets/product-7.png",
     "docs": [
@@ -196,7 +203,15 @@
         "url": "https://restoregh.com/wp-content/uploads/2025/02/Literatura-Grease-Out-AN.pdf",
         "label": "LITERATURA GREASE OUT AN"
       }
-    ]
+    ],
+    "sizes": [
+      "1 L",
+      "Galón",
+      "10 L",
+      "20 L"
+    ],
+    "guidance": "Considera AN para grasa animal o vegetal y cochambre en cocinas.",
+    "consultation": "Superficie, tipo de residuo y contexto de cocina."
   },
   {
     "name": "JABÓN LÍQUIDO LAVA LOZA MANUAL",
@@ -207,12 +222,6 @@
       "Loza y utensilios",
       "Cristal y cubiertos"
     ],
-    "sizes": [
-      "1Litro.",
-      "Galon.",
-      "10 Litros.",
-      "20 Litros."
-    ],
     "slug": "jabon-liquido-lava-loza-manual",
     "image": "/restore-gh/assets/product-8.png",
     "docs": [
@@ -220,7 +229,15 @@
         "url": "https://restoregh.com/wp-content/uploads/2025/04/Literatura-clean-2000.pdf",
         "label": "LITERATURA CLEAN 2000"
       }
-    ]
+    ],
+    "sizes": [
+      "1 L",
+      "Galón",
+      "10 L",
+      "20 L"
+    ],
+    "guidance": "Elige CLEAN 2000 para lavado manual de loza, cristal y cubiertos.",
+    "consultation": "Utensilios que necesitas lavar y volumen de uso."
   },
   {
     "name": "GER LEMON",
@@ -231,12 +248,6 @@
       "Pisos y paredes",
       "Ventanas y superficies lavables"
     ],
-    "sizes": [
-      "1 Litro.",
-      "Galon",
-      "10 Litros.",
-      "20 Litros."
-    ],
     "slug": "ger-lemon",
     "image": "/restore-gh/assets/product-9.png",
     "docs": [
@@ -244,6 +255,14 @@
         "url": "https://restoregh.com/wp-content/uploads/2025/04/Literatura-Ger-lemon.pdf",
         "label": "LITERATURA GER LEMON"
       }
-    ]
+    ],
+    "sizes": [
+      "1 L",
+      "Galón",
+      "10 L",
+      "20 L"
+    ],
+    "guidance": "Considera GER LEMON para limpieza de pisos, paredes o ventanas lavables con agua.",
+    "consultation": "Material, superficie y tipo de suciedad."
   }
 ]
