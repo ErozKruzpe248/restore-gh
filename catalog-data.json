@@ -1,0 +1,368 @@
+{
+  "currency": "MXN",
+  "taxIncluded": false,
+  "priceList": "2026 v02",
+  "confirmedByClient": "2026-10-19",
+  "products": {
+    "restore-gh": {
+      "benefits": [
+        "Remoción de contaminación e incrustaciones sobre superficies pintadas.",
+        "Limpieza previa a procesos de mantenimiento de pintura."
+      ],
+      "photoAlt": "Aplicación de Restore GH en tanques industriales",
+      "variants": [
+        {
+          "label": "5 L",
+          "price": 830
+        },
+        {
+          "label": "10 L",
+          "price": 1580
+        },
+        {
+          "label": "20 L",
+          "price": 3000
+        }
+      ],
+      "photo": "/assets/aplicaciones/restore-gh.webp",
+      "photoCaption": "Imágenes de aplicación incluidas en la literatura del fabricante.",
+      "technical": {
+        "url": "/assets/documentos/restore-gh-ficha.webp",
+        "label": "Ficha técnica",
+        "format": "Imagen · edición 25-1",
+        "source": "https://drive.google.com/file/d/1c5h2iHDXQlYxU5Ar9TKe0VZJ_Z6dMVS8/view?usp=drivesdk"
+      },
+      "literature": {
+        "url": "/assets/documentos/restore-gh-literatura.webp",
+        "label": "Literatura del producto",
+        "format": "Imagen · edición 25-1",
+        "source": "https://drive.google.com/file/d/15-bQL5usiMdc5jM3YNS1s6tonvYJJxKO/view?usp=drivesdk"
+      }
+    },
+    "hand-cream-by-restore-gh": {
+      "benefits": [
+        "Crema para remover suciedad de las manos de operarios.",
+        "La literatura indica que no contiene exfoliante abrasivo."
+      ],
+      "photoAlt": "Ilustración del fabricante sobre la limpieza de manos con crema",
+      "variants": [
+        {
+          "label": "1 kg",
+          "price": 145
+        },
+        {
+          "label": "4 kg",
+          "price": 640
+        },
+        {
+          "label": "8 kg",
+          "price": 1215
+        }
+      ],
+      "photo": "/assets/aplicaciones/hand-cream-by-restore-gh.webp",
+      "photoCaption": "Ilustración de aplicación proporcionada por el fabricante.",
+      "technical": {
+        "url": "/assets/documentos/hand-cream-by-restore-gh-ficha.webp",
+        "label": "Ficha técnica",
+        "format": "Imagen · edición 25-1",
+        "source": "https://drive.google.com/file/d/1L9xOD-Jx1JWXYA2DmZiDg0zABXpj56Pg/view?usp=drivesdk"
+      },
+      "literature": {
+        "url": "/assets/documentos/hand-cream-by-restore-gh-literatura.webp",
+        "label": "Literatura del producto",
+        "format": "Imagen · edición 25-1",
+        "source": "https://drive.google.com/file/d/1AYVdUcxVBSsQH9DH2vPvcUNpNa6uZ8mh/view?usp=drivesdk"
+      }
+    },
+    "greaseout-ac-restore-gh": {
+      "benefits": [
+        "Remoción de grasas y aceites en pisos y superficies.",
+        "Aplicaciones con máquinas lavadoras de pisos descritas por el fabricante."
+      ],
+      "photoAlt": "Aplicaciones de desengrase y limpieza de pisos industriales",
+      "variants": [
+        {
+          "label": "5 L",
+          "price": 525
+        },
+        {
+          "label": "10 L",
+          "price": 1000
+        },
+        {
+          "label": "20 L",
+          "price": 1900
+        }
+      ],
+      "photo": "/assets/aplicaciones/greaseout-ac-restore-gh.webp",
+      "photoCaption": "Imágenes de aplicación incluidas en la literatura del fabricante.",
+      "technical": {
+        "url": "/assets/documentos/greaseout-ac-restore-gh-ficha.webp",
+        "label": "Ficha técnica",
+        "format": "Imagen · edición 25-1",
+        "source": "https://drive.google.com/file/d/1bjirICiDXqe-I9mU7MhbvMes-RPd7ll3/view?usp=drivesdk"
+      },
+      "literature": {
+        "url": "/assets/documentos/greaseout-ac-restore-gh-literatura.webp",
+        "label": "Literatura del producto",
+        "format": "Imagen · edición 25-1",
+        "source": "https://drive.google.com/file/d/1Z14yq73Z_oZs9LHb_LXHtBZDtdERVi_Q/view?usp=drivesdk"
+      }
+    },
+    "grease-out-ah": {
+      "benefits": [
+        "Limpieza de grasas, aceites y residuos de hidrocarburos.",
+        "Aplicaciones documentadas en maquinaria y áreas industriales."
+      ],
+      "photoAlt": "Aplicaciones industriales de desengrase con Grease Out AH",
+      "variants": [
+        {
+          "label": "5 L",
+          "price": 575
+        },
+        {
+          "label": "10 L",
+          "price": 1100
+        },
+        {
+          "label": "20 L",
+          "price": 2080
+        }
+      ],
+      "photo": "/assets/aplicaciones/grease-out-ah.webp",
+      "photoCaption": "Imágenes de aplicación incluidas en la literatura del fabricante.",
+      "technical": {
+        "url": "/assets/documentos/grease-out-ah-ficha.webp",
+        "label": "Ficha técnica",
+        "format": "Imagen · edición 25-1",
+        "source": "https://drive.google.com/file/d/1dVV6TSet_xZ4mIDlN3nWxrwlqXXWKjO_/view?usp=drivesdk"
+      },
+      "literature": {
+        "url": "/assets/documentos/grease-out-ah-literatura.webp",
+        "label": "Literatura del producto",
+        "format": "Imagen · edición 25-1",
+        "source": "https://drive.google.com/file/d/1LfHexmlYqGjyszUn8yoSuVLWn98ocwlV/view?usp=drivesdk"
+      }
+    },
+    "grease-out-ap": {
+      "benefits": [
+        "Remoción de grasa adherida en parrillas y asadores.",
+        "Producto orientado a la limpieza de equipos de cocción."
+      ],
+      "photoAlt": "Limpieza de parrillas y asadores en la literatura del fabricante",
+      "variants": [
+        {
+          "label": "5 L",
+          "price": 365
+        },
+        {
+          "label": "10 L",
+          "price": 690
+        },
+        {
+          "label": "20 L",
+          "price": 1300
+        }
+      ],
+      "photo": "/assets/aplicaciones/grease-out-ap.webp",
+      "photoCaption": "Imágenes de aplicación incluidas en la literatura del fabricante.",
+      "technical": {
+        "url": "/assets/documentos/grease-out-ap-ficha.webp",
+        "label": "Ficha técnica",
+        "format": "Imagen · edición 25-1",
+        "source": "https://drive.google.com/file/d/1g4St1Veu3UZenWEyzlqBLp0Q5BPv319z/view?usp=drivesdk"
+      },
+      "literature": {
+        "url": "/assets/documentos/grease-out-ap-literatura.webp",
+        "label": "Literatura del producto",
+        "format": "Imagen · edición 25-1",
+        "source": "https://drive.google.com/file/d/18fbIJMBekqiOt55lMKCUix11ROrSHSEf/view?usp=drivesdk"
+      }
+    },
+    "grease-out-nc": {
+      "benefits": [
+        "Desengrase de pisos epóxicos.",
+        "Formulación base agua para retirar aceites y grasas."
+      ],
+      "photoAlt": "Pisos industriales epóxicos mostrados en la literatura de Grease Out NC",
+      "variants": [
+        {
+          "label": "5 L",
+          "price": 525
+        },
+        {
+          "label": "10 L",
+          "price": 1000
+        },
+        {
+          "label": "20 L",
+          "price": 1900
+        }
+      ],
+      "photo": "/assets/aplicaciones/grease-out-nc.webp",
+      "photoCaption": "Imágenes de aplicación incluidas en la literatura del fabricante.",
+      "technical": {
+        "url": "/assets/documentos/grease-out-nc-ficha.webp",
+        "label": "Ficha técnica",
+        "format": "Imagen · edición 25-1",
+        "source": "https://drive.google.com/file/d/13gwRF-O8go6NPXkonFjOHQOtLFJLHomx/view?usp=drivesdk"
+      },
+      "literature": {
+        "url": "/assets/documentos/grease-out-nc-literatura.webp",
+        "label": "Literatura del producto",
+        "format": "Imagen · edición 25-1",
+        "source": "https://drive.google.com/file/d/1X1jD0oWaWqkyKjLrUO6BnazUV1nAYtIM/view?usp=drivesdk"
+      }
+    },
+    "hand-clean-by-restore-gh": {
+      "description": "Jabón líquido concentrado para la limpieza de manos con grasa, carbón, algunos tipos de tinta y suciedad. La literatura describe aplicaciones en talleres, restaurantes y fábricas, y su uso con dispensadores para líquidos.",
+      "uses": [
+        "Limpieza de manos",
+        "Talleres, restaurantes y fábricas",
+        "Dispensadores para jabón líquido"
+      ],
+      "benefits": [
+        "Presentación líquida para dispensadores.",
+        "Limpieza de suciedad en manos en distintos entornos de trabajo."
+      ],
+      "photoAlt": "Aplicación de jabón líquido y lavado de manos",
+      "variants": [
+        {
+          "label": "5 L",
+          "price": 215
+        },
+        {
+          "label": "10 L",
+          "price": 410
+        },
+        {
+          "label": "20 L",
+          "price": 780
+        }
+      ],
+      "photo": "/assets/aplicaciones/hand-clean-by-restore-gh.webp",
+      "photoCaption": "Imágenes de aplicación incluidas en la literatura del fabricante.",
+      "technical": {
+        "url": "/assets/documentos/hand-clean-by-restore-gh-ficha.webp",
+        "label": "Ficha técnica",
+        "format": "Imagen · edición 25-1",
+        "source": "https://drive.google.com/file/d/1IxqFDConDHMuYv-7PZKZR3n5d0iE8NMN/view?usp=drivesdk"
+      },
+      "literature": {
+        "url": "/assets/documentos/hand-clean-by-restore-gh-literatura.webp",
+        "label": "Literatura del producto",
+        "format": "Imagen · edición 25-1",
+        "source": "https://drive.google.com/file/d/1SZNXDpLpT3ViU8f5SFzpXGEra8_XNVHc/view?usp=drivesdk"
+      },
+      "technicalReview": "La ficha recibida contiene datos pendientes de validación. Solicita la versión técnica vigente y la hoja de datos de seguridad antes de aplicar el producto."
+    },
+    "grease-out-an": {
+      "benefits": [
+        "Remoción de grasas y aceites animales y vegetales.",
+        "Limpieza de cochambre en cocinas y restaurantes."
+      ],
+      "photoAlt": "Limpieza de superficies y pisos de cocinas industriales",
+      "variants": [
+        {
+          "label": "5 L",
+          "price": 365
+        },
+        {
+          "label": "10 L",
+          "price": 690
+        },
+        {
+          "label": "20 L",
+          "price": 1300
+        }
+      ],
+      "photo": "/assets/aplicaciones/grease-out-an.webp",
+      "photoCaption": "Imágenes de aplicación incluidas en la literatura del fabricante.",
+      "technical": {
+        "url": "/assets/documentos/grease-out-an-ficha.webp",
+        "label": "Ficha técnica",
+        "format": "Imagen · edición 25-1",
+        "source": "https://drive.google.com/file/d/1VPrHnFXRoAePnNd3IQAIm9T2RO64VhwN/view?usp=drivesdk"
+      },
+      "literature": {
+        "url": "/assets/documentos/grease-out-an-literatura.webp",
+        "label": "Literatura del producto",
+        "format": "Imagen · edición 25-1",
+        "source": "https://drive.google.com/file/d/1V7pslKHaJ6Bs5DCtJV4NiJ-APCFtBcEF/view?usp=drivesdk"
+      }
+    },
+    "jabon-liquido-lava-loza-manual": {
+      "name": "CLEAN 2000",
+      "benefits": [
+        "Lavado manual de loza, cristal y cubiertos.",
+        "Detergente para utensilios que pueden limpiarse con agua."
+      ],
+      "photoAlt": "Lavado manual de loza y utensilios de cocina",
+      "variants": [
+        {
+          "label": "5 L",
+          "price": 330
+        },
+        {
+          "label": "10 L",
+          "price": 630
+        },
+        {
+          "label": "20 L",
+          "price": 1200
+        }
+      ],
+      "photo": "/assets/aplicaciones/jabon-liquido-lava-loza-manual.webp",
+      "photoCaption": "Imágenes de aplicación incluidas en la literatura del fabricante.",
+      "technical": {
+        "url": "/assets/documentos/jabon-liquido-lava-loza-manual-ficha.webp",
+        "label": "Ficha técnica",
+        "format": "Imagen · edición 25-1",
+        "source": "https://drive.google.com/file/d/1sYHi6pjBGPKlyQ5VSqzoDgafRz9I-FTJ/view?usp=drivesdk"
+      },
+      "literature": {
+        "url": "/assets/documentos/jabon-liquido-lava-loza-manual-literatura.webp",
+        "label": "Literatura del producto",
+        "format": "Imagen · edición 25-1",
+        "source": "https://drive.google.com/file/d/1MMQbmUazL504simhkkPiRqPs5IVZngXO/view?usp=drivesdk"
+      },
+      "technicalReview": "La ficha recibida contiene datos pendientes de validación. Solicita la versión técnica vigente y la hoja de datos de seguridad antes de aplicar el producto."
+    },
+    "ger-lemon": {
+      "benefits": [
+        "Limpieza de superficies que pueden lavarse con agua.",
+        "Aplicaciones en pisos, paredes y ventanas."
+      ],
+      "photoAlt": "Limpieza de pisos y superficies lavables",
+      "variants": [
+        {
+          "label": "5 L",
+          "price": 385
+        },
+        {
+          "label": "10 L",
+          "price": 730
+        },
+        {
+          "label": "20 L",
+          "price": 1400
+        }
+      ],
+      "photo": "/assets/aplicaciones/ger-lemon.webp",
+      "photoCaption": "Imágenes de aplicación incluidas en la literatura del fabricante.",
+      "technical": {
+        "url": "/assets/documentos/ger-lemon-ficha.webp",
+        "label": "Ficha técnica",
+        "format": "Imagen · edición 25-1",
+        "source": "https://drive.google.com/file/d/1R7j4AbtSQJ6sw_6I1KLxGN76g_FZzmRL/view?usp=drivesdk"
+      },
+      "literature": {
+        "url": "/assets/documentos/ger-lemon-literatura.webp",
+        "label": "Literatura del producto",
+        "format": "Imagen · edición 25-1",
+        "source": "https://drive.google.com/file/d/1b7QoibvWZaZNxDFZY7xG2j5PujgRqqF5/view?usp=drivesdk"
+      },
+      "technicalReview": "La ficha recibida contiene datos pendientes de validación. Solicita la versión técnica vigente y la hoja de datos de seguridad antes de aplicar el producto."
+    }
+  }
+}

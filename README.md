@@ -39,3 +39,11 @@ El formulario prepara un correo sin almacenamiento ni envío automático. El vis
 - Revisadas portada en escritorio, ficha en tablet, contacto y navegación en móvil, búsqueda sin acentos y preparación local de mensajes.
 
 Pendiente del cliente: confirmar teléfono/correo y recepción real, presentaciones vigentes, documentos aprobados y fotografías de envases/aplicaciones. El envío automático requiere seleccionar y configurar un servicio receptor; no está activado.
+
+## Catálogo con material de Drive — 19 de octubre de 2026
+
+`catalog-data.json` conserva precios por presentación, moneda MXN e IVA excluido (confirmados por el cliente), beneficios y procedencia de las imágenes/documentos. Los diez productos incluyen ficha 25-1, literatura, imagen de aplicación y tres presentaciones de la lista 2026 v02. CLEAN 2000 conserva su URL anterior de lava loza.
+
+Las imágenes se extraen de las literaturas, no representan envases. HAND CREAM usa una ilustración identificada como tal. Documentos completos solo se cargan al abrirlos; el catálogo usa WebP con carga diferida. No se incorporan videos ni reportes con firmas/datos de terceros.
+
+No se trasladan diluciones, primeros auxilios, pH, porcentajes de biodegradabilidad o patentes sin validar discrepancias. CLEAN 2000, GER LEMON y HAND CLEAN muestran un aviso para solicitar la versión técnica vigente. La revisión de los 12 reportes permite identificar aplicaciones y material posterior, sin afirmar respaldo comercial de los clientes que aparecen en ellos.
