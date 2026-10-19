@@ -13,3 +13,6 @@
 
 
 .technical-review{padding:18px 22px;border-left:3px solid var(--orange);background:var(--paper);max-width:850px}.application-image img{object-fit:contain}
+
+/* Original product identities and full-size application photography */
+.brand-image{display:flex;align-items:center;justify-content:center;aspect-ratio:8/5;background:#fff;border-bottom:1px solid var(--line);padding:20px;flex-shrink:0}.brand-image img{display:block;width:100%;height:100%;object-fit:contain}.detail-brand{display:flex;align-items:center;justify-content:center;background:white;border:1px solid var(--line);border-radius:6px;padding:35px;aspect-ratio:8/5}.detail-brand img{display:block;width:100%;height:100%;object-fit:contain}.application-showcase{display:grid;grid-template-columns:.65fr 1.35fr;gap:50px;align-items:center}.application-showcase figure{margin:0}.application-showcase figure img{display:block;width:100%;height:auto;border-radius:6px}.application-showcase figcaption{font-size:.8rem;color:var(--muted);padding-top:12px}@media(max-width:800px){.application-showcase{grid-template-columns:1fr;gap:25px}.detail-brand{padding:24px}.brand-image{padding:16px}}

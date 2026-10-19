@@ -47,3 +47,7 @@ Pendiente del cliente: confirmar teléfono/correo y recepción real, presentacio
 Las imágenes se extraen de las literaturas, no representan envases. HAND CREAM usa una ilustración identificada como tal. Documentos completos solo se cargan al abrirlos; el catálogo usa WebP con carga diferida. No se incorporan videos ni reportes con firmas/datos de terceros.
 
 No se trasladan diluciones, primeros auxilios, pH, porcentajes de biodegradabilidad o patentes sin validar discrepancias. CLEAN 2000, GER LEMON y HAND CLEAN muestran un aviso para solicitar la versión técnica vigente. La revisión de los 12 reportes permite identificar aplicaciones y material posterior, sin afirmar respaldo comercial de los clientes que aparecen en ellos.
+
+## Imágenes individuales
+
+Los diez productos usan los logotipos originales de la carpeta MARCAS (y el logotipo general para RESTORE GH). La portada y la sección de aplicación de RESTORE GH usan A3.jpg como una sola fotografía industrial optimizada. Las fotografías navales de procedencia pendiente y las comparaciones sin contexto confirmado no se incorporan. Los precios y documentos se conservan.

@@ -68,7 +68,10 @@
       "label": "Literatura del producto",
       "format": "Imagen · edición 25-1",
       "source": "https://drive.google.com/file/d/15-bQL5usiMdc5jM3YNS1s6tonvYJJxKO/view?usp=drivesdk"
-    }
+    },
+    "brandImage": "/assets/marcas/restore-gh.png",
+    "applicationPhoto": "/assets/fotografias/instalacion-industrial.webp",
+    "applicationAlt": "Instalación industrial con equipos y superficies metálicas"
   },
   {
     "name": "HAND CREAM",
@@ -134,7 +137,8 @@
       "label": "Literatura del producto",
       "format": "Imagen · edición 25-1",
       "source": "https://drive.google.com/file/d/1AYVdUcxVBSsQH9DH2vPvcUNpNa6uZ8mh/view?usp=drivesdk"
-    }
+    },
+    "brandImage": "/assets/marcas/hand-cream-by-restore-gh.png"
   },
   {
     "name": "GREASE OUT AC",
@@ -205,7 +209,8 @@
       "label": "Literatura del producto",
       "format": "Imagen · edición 25-1",
       "source": "https://drive.google.com/file/d/1Z14yq73Z_oZs9LHb_LXHtBZDtdERVi_Q/view?usp=drivesdk"
-    }
+    },
+    "brandImage": "/assets/marcas/greaseout-ac-restore-gh.png"
   },
   {
     "name": "GREASE OUT AH",
@@ -277,7 +282,8 @@
       "label": "Literatura del producto",
       "format": "Imagen · edición 25-1",
       "source": "https://drive.google.com/file/d/1LfHexmlYqGjyszUn8yoSuVLWn98ocwlV/view?usp=drivesdk"
-    }
+    },
+    "brandImage": "/assets/marcas/grease-out-ah.png"
   },
   {
     "name": "GREASE OUT AP",
@@ -343,7 +349,8 @@
       "label": "Literatura del producto",
       "format": "Imagen · edición 25-1",
       "source": "https://drive.google.com/file/d/18fbIJMBekqiOt55lMKCUix11ROrSHSEf/view?usp=drivesdk"
-    }
+    },
+    "brandImage": "/assets/marcas/grease-out-ap.png"
   },
   {
     "name": "GREASE OUT NC",
@@ -409,7 +416,8 @@
       "label": "Literatura del producto",
       "format": "Imagen · edición 25-1",
       "source": "https://drive.google.com/file/d/1X1jD0oWaWqkyKjLrUO6BnazUV1nAYtIM/view?usp=drivesdk"
-    }
+    },
+    "brandImage": "/assets/marcas/grease-out-nc.png"
   },
   {
     "name": "HAND CLEAN",
@@ -477,7 +485,8 @@
       "format": "Imagen · edición 25-1",
       "source": "https://drive.google.com/file/d/1SZNXDpLpT3ViU8f5SFzpXGEra8_XNVHc/view?usp=drivesdk"
     },
-    "technicalReview": "La ficha recibida contiene datos pendientes de validación. Solicita la versión técnica vigente y la hoja de datos de seguridad antes de aplicar el producto."
+    "technicalReview": "La ficha recibida contiene datos pendientes de validación. Solicita la versión técnica vigente y la hoja de datos de seguridad antes de aplicar el producto.",
+    "brandImage": "/assets/marcas/hand-clean-by-restore-gh.png"
   },
   {
     "name": "GREASE OUT AN",
@@ -543,7 +552,8 @@
       "label": "Literatura del producto",
       "format": "Imagen · edición 25-1",
       "source": "https://drive.google.com/file/d/1V7pslKHaJ6Bs5DCtJV4NiJ-APCFtBcEF/view?usp=drivesdk"
-    }
+    },
+    "brandImage": "/assets/marcas/grease-out-an.png"
   },
   {
     "name": "CLEAN 2000",
@@ -610,7 +620,8 @@
       "format": "Imagen · edición 25-1",
       "source": "https://drive.google.com/file/d/1MMQbmUazL504simhkkPiRqPs5IVZngXO/view?usp=drivesdk"
     },
-    "technicalReview": "La ficha recibida contiene datos pendientes de validación. Solicita la versión técnica vigente y la hoja de datos de seguridad antes de aplicar el producto."
+    "technicalReview": "La ficha recibida contiene datos pendientes de validación. Solicita la versión técnica vigente y la hoja de datos de seguridad antes de aplicar el producto.",
+    "brandImage": "/assets/marcas/jabon-liquido-lava-loza-manual.png"
   },
   {
     "name": "GER LEMON",
@@ -677,6 +688,7 @@
       "format": "Imagen · edición 25-1",
       "source": "https://drive.google.com/file/d/1b7QoibvWZaZNxDFZY7xG2j5PujgRqqF5/view?usp=drivesdk"
     },
-    "technicalReview": "La ficha recibida contiene datos pendientes de validación. Solicita la versión técnica vigente y la hoja de datos de seguridad antes de aplicar el producto."
+    "technicalReview": "La ficha recibida contiene datos pendientes de validación. Solicita la versión técnica vigente y la hoja de datos de seguridad antes de aplicar el producto.",
+    "brandImage": "/assets/marcas/ger-lemon.png"
   }
 ]
