@@ -51,3 +51,7 @@ No se trasladan diluciones, primeros auxilios, pH, porcentajes de biodegradabili
 ## Imágenes individuales
 
 Los diez productos usan los logotipos originales de la carpeta MARCAS (y el logotipo general para RESTORE GH). La portada y la sección de aplicación de RESTORE GH usan A3.jpg como una sola fotografía industrial optimizada. Las fotografías navales de procedencia pendiente y las comparaciones sin contexto confirmado no se incorporan. Los precios y documentos se conservan.
+
+## Fotos originales por producto — 28 de octubre de 2026
+
+RESTORE GH, GREASE OUT AC, AH y AP usan fotografías individuales seleccionadas de sus carpetas de Drive: una principal en catálogo/ficha y otra de aplicación. Los logotipos permanecen como identificación secundaria. Se excluyeron capturas, collages y videos. Las fotos están optimizadas en WebP y su procedencia queda en catalog-data.json. No se asignaron imágenes a los otros seis productos ni se modificaron precios y documentos.
