@@ -3,7 +3,7 @@
     "name": "RESTORE GH",
     "category": "Restauración",
     "short": "Limpieza y restauración de superficies pintadas.",
-    "description": "Remueve incrustaciones y contaminación sobre superficies pintadas de fierro y acero. Se utiliza en recubrimientos de esmalte, epóxicos, poliuretanos y alquidálicos.",
+    "description": "Remueve incrustaciones y contaminación sobre superficies pintadas de fierro y acero. Se utiliza en recubrimientos de esmalte, epóxicos, poliuretanos y alquidálicos. Su ficha técnica describe aplicaciones en tanques, vigas, tuberías y equipos pintados, así como limpieza previa al mantenimiento de pintura.",
     "uses": [
       "Superficies pintadas",
       "Estructuras de fierro y acero"
@@ -29,11 +29,6 @@
         "format": "PDF del fabricante"
       }
     ],
-    "sizes": [
-      "5 L",
-      "10 L",
-      "20 L"
-    ],
     "guidance": "Elige esta solución cuando necesitas limpiar superficies pintadas de fierro o acero.",
     "consultation": "Material y tipo de pintura; incrustaciones o contaminación que deseas retirar.",
     "benefits": [
@@ -41,20 +36,6 @@
       "Limpieza previa a procesos de mantenimiento de pintura."
     ],
     "photoAlt": "Aplicación de Restore GH en tanques industriales",
-    "variants": [
-      {
-        "label": "5 L",
-        "price": 830
-      },
-      {
-        "label": "10 L",
-        "price": 1580
-      },
-      {
-        "label": "20 L",
-        "price": 3000
-      }
-    ],
     "photo": "/assets/aplicaciones/restore-gh.webp",
     "photoCaption": "Imágenes de aplicación incluidas en la literatura del fabricante.",
     "technical": {
@@ -107,11 +88,6 @@
         "source": "https://drive.google.com/file/d/1AYVdUcxVBSsQH9DH2vPvcUNpNa6uZ8mh/view?usp=drivesdk"
       }
     ],
-    "sizes": [
-      "1 kg",
-      "4 kg",
-      "8 kg"
-    ],
     "guidance": "Elige esta crema para la limpieza de manos de operarios en talleres.",
     "consultation": "Tipo de suciedad y frecuencia de limpieza de manos.",
     "benefits": [
@@ -119,20 +95,6 @@
       "La literatura indica que no contiene exfoliante abrasivo."
     ],
     "photoAlt": "Ilustración del fabricante sobre la limpieza de manos con crema",
-    "variants": [
-      {
-        "label": "1 kg",
-        "price": 145
-      },
-      {
-        "label": "4 kg",
-        "price": 640
-      },
-      {
-        "label": "8 kg",
-        "price": 1215
-      }
-    ],
     "photo": "/assets/aplicaciones/hand-cream-by-restore-gh.webp",
     "photoCaption": "Ilustración de aplicación proporcionada por el fabricante.",
     "technical": {
@@ -179,11 +141,6 @@
         "format": "PDF del fabricante"
       }
     ],
-    "sizes": [
-      "5 L",
-      "10 L",
-      "20 L"
-    ],
     "guidance": "Considera AC para limpieza general de grasas y aceites en pisos, muebles o maquinaria.",
     "consultation": "Material, residuo y equipo de limpieza que utilizas.",
     "benefits": [
@@ -191,20 +148,6 @@
       "Aplicaciones con máquinas lavadoras de pisos descritas por el fabricante."
     ],
     "photoAlt": "Aplicaciones de desengrase y limpieza de pisos industriales",
-    "variants": [
-      {
-        "label": "5 L",
-        "price": 525
-      },
-      {
-        "label": "10 L",
-        "price": 1000
-      },
-      {
-        "label": "20 L",
-        "price": 1900
-      }
-    ],
     "photo": "/assets/aplicaciones/greaseout-ac-restore-gh.webp",
     "photoCaption": "Imágenes de aplicación incluidas en la literatura del fabricante.",
     "technical": {
@@ -263,11 +206,6 @@
         "format": "PDF del fabricante"
       }
     ],
-    "sizes": [
-      "5 L",
-      "10 L",
-      "20 L"
-    ],
     "guidance": "Considera AH para maquinaria y áreas industriales con residuos de hidrocarburos.",
     "consultation": "Residuo, superficie y recubrimiento del equipo.",
     "benefits": [
@@ -275,20 +213,6 @@
       "Aplicaciones documentadas en maquinaria y áreas industriales."
     ],
     "photoAlt": "Aplicaciones industriales de desengrase con Grease Out AH",
-    "variants": [
-      {
-        "label": "5 L",
-        "price": 575
-      },
-      {
-        "label": "10 L",
-        "price": 1100
-      },
-      {
-        "label": "20 L",
-        "price": 2080
-      }
-    ],
     "photo": "/assets/aplicaciones/grease-out-ah.webp",
     "photoCaption": "Imágenes de aplicación incluidas en la literatura del fabricante.",
     "technical": {
@@ -341,11 +265,6 @@
         "source": "https://drive.google.com/file/d/18fbIJMBekqiOt55lMKCUix11ROrSHSEf/view?usp=drivesdk"
       }
     ],
-    "sizes": [
-      "5 L",
-      "10 L",
-      "20 L"
-    ],
     "guidance": "Considera AP para grasa adherida en parrillas y asadores.",
     "consultation": "Material de la parrilla o asador y estado de la grasa.",
     "benefits": [
@@ -353,20 +272,6 @@
       "Producto orientado a la limpieza de equipos de cocción."
     ],
     "photoAlt": "Limpieza de parrillas y asadores en la literatura del fabricante",
-    "variants": [
-      {
-        "label": "5 L",
-        "price": 365
-      },
-      {
-        "label": "10 L",
-        "price": 690
-      },
-      {
-        "label": "20 L",
-        "price": 1300
-      }
-    ],
     "photo": "/assets/aplicaciones/grease-out-ap.webp",
     "photoCaption": "Imágenes de aplicación incluidas en la literatura del fabricante.",
     "technical": {
@@ -419,11 +324,6 @@
         "source": "https://drive.google.com/file/d/1X1jD0oWaWqkyKjLrUO6BnazUV1nAYtIM/view?usp=drivesdk"
       }
     ],
-    "sizes": [
-      "5 L",
-      "10 L",
-      "20 L"
-    ],
     "guidance": "Considera NC cuando la necesidad principal es desengrasar pisos epóxicos.",
     "consultation": "Tipo y estado del recubrimiento y presencia de aceites o grasas.",
     "benefits": [
@@ -431,20 +331,6 @@
       "Formulación base agua para retirar aceites y grasas."
     ],
     "photoAlt": "Pisos industriales epóxicos mostrados en la literatura de Grease Out NC",
-    "variants": [
-      {
-        "label": "5 L",
-        "price": 525
-      },
-      {
-        "label": "10 L",
-        "price": 1000
-      },
-      {
-        "label": "20 L",
-        "price": 1900
-      }
-    ],
     "photo": "/assets/aplicaciones/grease-out-nc.webp",
     "photoCaption": "Imágenes de aplicación incluidas en la literatura del fabricante.",
     "technical": {
@@ -487,32 +373,13 @@
         "source": "https://drive.google.com/file/d/1SZNXDpLpT3ViU8f5SFzpXGEra8_XNVHc/view?usp=drivesdk"
       }
     ],
-    "sizes": [
-      "5 L",
-      "10 L",
-      "20 L"
-    ],
     "guidance": "Elige HAND CLEAN cuando buscas un jabón líquido para limpieza de manos.",
-    "consultation": "Contexto de uso y presentación requerida.",
+    "consultation": "Contexto de uso y tipo de suciedad.",
     "benefits": [
       "Presentación líquida para dispensadores.",
       "Limpieza de suciedad en manos en distintos entornos de trabajo."
     ],
     "photoAlt": "Aplicación de jabón líquido y lavado de manos",
-    "variants": [
-      {
-        "label": "5 L",
-        "price": 215
-      },
-      {
-        "label": "10 L",
-        "price": 410
-      },
-      {
-        "label": "20 L",
-        "price": 780
-      }
-    ],
     "photo": "/assets/aplicaciones/hand-clean-by-restore-gh.webp",
     "photoCaption": "Imágenes de aplicación incluidas en la literatura del fabricante.",
     "technical": {
@@ -555,11 +422,6 @@
         "source": "https://drive.google.com/file/d/1V7pslKHaJ6Bs5DCtJV4NiJ-APCFtBcEF/view?usp=drivesdk"
       }
     ],
-    "sizes": [
-      "5 L",
-      "10 L",
-      "20 L"
-    ],
     "guidance": "Considera AN para grasa animal o vegetal y cochambre en cocinas.",
     "consultation": "Superficie, tipo de residuo y contexto de cocina.",
     "benefits": [
@@ -567,20 +429,6 @@
       "Limpieza de cochambre en cocinas y restaurantes."
     ],
     "photoAlt": "Limpieza de superficies y pisos de cocinas industriales",
-    "variants": [
-      {
-        "label": "5 L",
-        "price": 365
-      },
-      {
-        "label": "10 L",
-        "price": 690
-      },
-      {
-        "label": "20 L",
-        "price": 1300
-      }
-    ],
     "photo": "/assets/aplicaciones/grease-out-an.webp",
     "photoCaption": "Imágenes de aplicación incluidas en la literatura del fabricante.",
     "technical": {
@@ -622,11 +470,6 @@
         "source": "https://drive.google.com/file/d/1MMQbmUazL504simhkkPiRqPs5IVZngXO/view?usp=drivesdk"
       }
     ],
-    "sizes": [
-      "5 L",
-      "10 L",
-      "20 L"
-    ],
     "guidance": "Elige CLEAN 2000 para lavado manual de loza, cristal y cubiertos.",
     "consultation": "Utensilios que necesitas lavar y volumen de uso.",
     "benefits": [
@@ -634,20 +477,6 @@
       "Detergente para utensilios que pueden limpiarse con agua."
     ],
     "photoAlt": "Lavado manual de loza y utensilios de cocina",
-    "variants": [
-      {
-        "label": "5 L",
-        "price": 330
-      },
-      {
-        "label": "10 L",
-        "price": 630
-      },
-      {
-        "label": "20 L",
-        "price": 1200
-      }
-    ],
     "photo": "/assets/aplicaciones/jabon-liquido-lava-loza-manual.webp",
     "photoCaption": "Imágenes de aplicación incluidas en la literatura del fabricante.",
     "technical": {
@@ -690,11 +519,6 @@
         "source": "https://drive.google.com/file/d/1b7QoibvWZaZNxDFZY7xG2j5PujgRqqF5/view?usp=drivesdk"
       }
     ],
-    "sizes": [
-      "5 L",
-      "10 L",
-      "20 L"
-    ],
     "guidance": "Considera GER LEMON para limpieza de pisos, paredes o ventanas lavables con agua.",
     "consultation": "Material, superficie y tipo de suciedad.",
     "benefits": [
@@ -702,20 +526,6 @@
       "Aplicaciones en pisos, paredes y ventanas."
     ],
     "photoAlt": "Limpieza de pisos y superficies lavables",
-    "variants": [
-      {
-        "label": "5 L",
-        "price": 385
-      },
-      {
-        "label": "10 L",
-        "price": 730
-      },
-      {
-        "label": "20 L",
-        "price": 1400
-      }
-    ],
     "photo": "/assets/aplicaciones/ger-lemon.webp",
     "photoCaption": "Imágenes de aplicación incluidas en la literatura del fabricante.",
     "technical": {
