@@ -46,3 +46,20 @@
 /* Family wordmark and matching service pictograms. The variant suffix is masked; the original artwork is preserved. */
 .family-heading{display:flex;align-items:center;gap:25px}.family-heading h2{margin:0}.grease-family-logo{display:block;width:200px;height:125px;object-fit:contain;clip-path:polygon(0 0,100% 0,100% 50%,69% 50%,69% 100%,0 100%);flex-shrink:0}.service-icon{display:flex;align-items:center;justify-content:center;width:70px;height:70px;background:#ffffff0b;border:1px solid #ffffff24;border-radius:14px;color:white;margin-bottom:24px}.service-icon svg{width:52px;height:52px;display:block}.service-icon .icon-accent{stroke:#ffb34e}.service-steps li{position:relative}.service-steps li:not(:last-child):after{content:"→";position:absolute;right:0;top:47px;color:#ffb34e;font-size:24px}@media(max-width:1050px){.family-heading{gap:12px}.grease-family-logo{width:155px;height:100px}.family-heading h2{font-size:2rem}}@media(max-width:800px){.family-heading{justify-content:flex-start;margin-bottom:24px}.family-heading h2{font-size:2rem}.service-steps li{grid-template-columns:64px minmax(0,1fr);padding-right:20px}.service-icon{grid-row:1/3;width:64px;height:64px;margin:0}.service-steps li:not(:last-child):after{content:"↓";top:auto;bottom:-12px;right:0;font-size:20px}}@media(max-width:400px){.family-heading{gap:10px}.grease-family-logo{width:125px;height:85px}.family-heading h2{font-size:1.7rem}}
 @media(min-width:801px){.service-steps li{text-align:center;padding-left:12px;padding-right:12px}.service-icon{width:88px;height:88px;margin:0 auto 26px;border-radius:18px}.service-icon svg{width:65px;height:65px}.service-steps p{max-width:360px;margin:0 auto}.service-steps li:not(:last-child):after{right:-27px;top:70px;transform:translateY(-50%);font-size:26px}}
+
+.contact-hero-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, .65fr);
+  gap: 36px;
+  align-items: center;
+}
+.contact-phone-art svg { display: block; width: min(100%, 350px); height: auto; margin: auto; }
+.btn.btn-whatsapp { background: #07664f; color: white; }
+.btn.btn-whatsapp:hover { background: #054f3e; }
+.product-brand-small { width: min(245px, 100%); max-width: none; height: auto; margin: 0 0 15px; }
+.detail-brand { padding: clamp(8px, 2vw, 20px); }
+@media (max-width: 650px) {
+  .contact-hero-grid { grid-template-columns: 1fr; gap: 24px; }
+  .contact-phone-art svg { width: min(100%, 240px); }
+  .product-brand-small { width: min(200px, 100%); }
+}
