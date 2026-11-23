@@ -65,7 +65,7 @@
 }
 
 .image-comparison { margin: 0; min-width: 0; border: 1px solid var(--line); border-radius: 6px; overflow: hidden; background: var(--paper); }
-.comparison-images { position: relative; aspect-ratio: 3 / 4; max-height: 560px; cursor: ew-resize; touch-action: pan-y; user-select: none; overflow: hidden; }
+.comparison-images { position: relative; width: 100%; aspect-ratio: 3 / 4; max-height: 560px; cursor: ew-resize; touch-action: pan-y; user-select: none; overflow: hidden; }
 .comparison-images > img { display: block; position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; pointer-events: none; }
 .comparison-before { clip-path: inset(0 calc(100% - var(--before)) 0 0); }
 .comparison-label { position: absolute; top: 16px; padding: 5px 12px; background: white; border-radius: 20px; font-size: 12px; font-weight: 700; color: var(--navy); pointer-events: none; }
