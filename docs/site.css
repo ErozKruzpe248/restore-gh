@@ -78,3 +78,9 @@
 .comparison-actions button { background: transparent; color: var(--blue); border: 0; padding: 8px 0; font-weight: 700; cursor: pointer; font-size: 13px; }
 .image-comparison figcaption p { margin: 12px 0 0; font-size: 12px; }
 @media(max-width:800px) { .comparison-images { max-height: 480px; } }
+
+.comparison-images { aspect-ratio: var(--comparison-ratio, 3 / 4); }
+.comparison-gallery { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 32px; align-items: start; }
+.comparison-gallery article { min-width: 0; }
+.comparison-gallery h3 { margin-bottom: 18px; }
+@media(max-width:800px) { .comparison-gallery { grid-template-columns: 1fr; } }
