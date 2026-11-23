@@ -15,3 +15,35 @@ if(form){const params=new URLSearchParams(location.search);for(const field of ['
 form.addEventListener('submit',e=>{e.preventDefault();const data=new FormData(form);const product=document.querySelector('#producto').selectedOptions[0].textContent;const text=`Solicitud de ${data.get('tipo')} — Restore GH\n\nNombre: ${data.get('nombre')}\nEmpresa: ${data.get('empresa')||'No indicada'}\nCorreo: ${data.get('correo')}\nTeléfono: ${data.get('telefono')||'No indicado'}\nCiudad: ${data.get('ciudad')||'No indicada'}\nProducto: ${product}\nNecesidad: ${data.get('necesidad')||'No indicada'}\n\n${data.get('mensaje')}`;document.querySelector('#request-text').value=text;document.querySelector('#send-email').href='mailto:contacto@restoregh.com?subject='+encodeURIComponent('Solicitud de '+data.get('tipo')+' — Restore GH')+'&body='+encodeURIComponent(text);const whatsappMessage=new URL(whatsappBase);whatsappMessage.searchParams.set('text',text);whatsappLink.href=whatsappMessage.href;form.hidden=true;ready.hidden=false;ready.focus();});
 document.querySelector('#edit-request').addEventListener('click',()=>{ready.hidden=true;form.hidden=false;form.querySelector('select').focus();});
 }
+
+document.querySelectorAll('[data-comparison]').forEach(comparison => {
+  const frame = comparison.querySelector('[data-comparison-frame]');
+  const range = comparison.querySelector('[data-comparison-range]');
+  function updateComparison(value) {
+    const position = Math.max(0, Math.min(100, Math.round(value)));
+    range.value = position;
+    range.setAttribute('aria-valuetext', position + ' % antes y ' + (100 - position) + ' % después');
+    comparison.style.setProperty('--before', position + '%');
+    comparison.querySelector('[data-before-label]').hidden = position === 0;
+    comparison.querySelector('[data-after-label]').hidden = position === 100;
+  }
+  function updateFromPointer(event) {
+    const bounds = frame.getBoundingClientRect();
+    updateComparison((event.clientX - bounds.left) / bounds.width * 100);
+  }
+  range.addEventListener('input', () => updateComparison(range.value));
+  frame.addEventListener('pointerdown', event => {
+    if (!event.isPrimary || event.button !== 0) return;
+    frame.setPointerCapture(event.pointerId);
+    updateFromPointer(event);
+  });
+  frame.addEventListener('pointermove', event => {
+    if (frame.hasPointerCapture(event.pointerId)) updateFromPointer(event);
+  });
+  frame.addEventListener('pointerup', event => {
+    if (frame.hasPointerCapture(event.pointerId)) frame.releasePointerCapture(event.pointerId);
+  });
+  comparison.querySelectorAll('[data-comparison-value]').forEach(button => {
+    button.addEventListener('click', () => updateComparison(button.dataset.comparisonValue));
+  });
+});
